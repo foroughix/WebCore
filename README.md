@@ -1,4 +1,4 @@
-# WebCore
+# WebCore <sub>`web series`<sub>
 
 ![WebCore](WebCore.png)
 
