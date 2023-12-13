@@ -1,2 +1,5 @@
 # WebCore
-framework for create game server
+
+![WebCore](WebCore.png)
+
+Framework for create game server
