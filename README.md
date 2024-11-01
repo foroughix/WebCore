@@ -1,5 +1,2 @@
-# WebCore <sub>(web series)<sub>
-
-![WebCore](WebCore.png)
-
-Framework for create game server
+# WebCore
+Framework for create game and server
